@@ -1,0 +1,2 @@
+# cs2_sticker_simulator
+cs2_sticker_simulator
